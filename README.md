@@ -1,0 +1,2 @@
+# bloking
+tugas bloking
